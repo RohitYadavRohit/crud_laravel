@@ -38,7 +38,6 @@
         <a href="{{route('customer.create')}}">
             <button class="btn btn-primary d-inline-block m-2 float-end"> Add </button>
         </a>
-            <h1 style="white">hi</h1>
         <table class="table">
             <thead>
                 <tr>
